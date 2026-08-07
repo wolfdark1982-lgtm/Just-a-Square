@@ -6,4 +6,4 @@ Made on Javascript
 ________________________________________________________________
 
 On Website: https://wolfdark1982-lgtm.github.io/Just-a-Square/
-![Alt text](images/your-screenshot.png)
+![](images/images.png)
