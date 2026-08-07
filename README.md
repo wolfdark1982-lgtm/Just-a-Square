@@ -4,5 +4,5 @@ WARNING: if you dont extract the file and still open the square was gone so plea
 
 Made on Javascript
 ________________________________________________________________
-|On Website: https://wolfdark1982-lgtm.github.io/Just-a-Square/|
-|______________________________________________________________|
+
+On Website: https://wolfdark1982-lgtm.github.io/Just-a-Square/
