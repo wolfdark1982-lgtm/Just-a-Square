@@ -4,7 +4,6 @@ WARNING: if you dont extract the file and still open the square was gone so plea
 
 Made on Javascript
 
-<div style="border: 2px solid black; padding: 20px; border-radius: 0px; font-size: 1.2em; width: 100%;">
-    <div style="border: 2px solid black; padding: 20px; border-radius: 0px; font-size: 1.2em; width: 100%;">
-    On Website: https://wolfdark1982-lgtm.github.io/Just-a-Square/
-</div> 
+ <div class="Box p-3">
+  On Website: https://wolfdark1982-lgtm.github.io/Just-a-Square/
+</div>
